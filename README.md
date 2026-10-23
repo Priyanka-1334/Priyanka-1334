@@ -8,7 +8,7 @@ I'm an Information Technology student interested in **Python programming, softwa
 * 🐍 Currently focused on **Python programming**
 * 🚀 Building projects using **Python, SQL, and machine learning**
 * 🤖 Interested in applying AI to practical problems
-* 💡 Passionate about building useful and reliable software solutions
+* 💡 Passionate about building practical and reliable software solutions
 
 ---
 
@@ -64,15 +64,15 @@ The system analyzes message content and classifies suspicious messages to help u
 
 ## 📊 GitHub Stats
 
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanka&show_icons=true&theme=default)
+![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanka-1334&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-1334&layout=compact&theme=default)
 
 ---
 
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka-1334)
 
 ---
 
