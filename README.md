@@ -1,103 +1,86 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDF5,100:F2C94C&height=170&section=header&text=Priyanka%20B&fontSize=48&fontColor=493A16&fontAlignY=40&desc=Information%20Technology%20Student&descSize=17&descAlignY=65" width="100%" alt="Professional yellow header" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF9C4,50:FFE082,100:FFCA28&height=200&section=header&text=Priyanka%20B&fontSize=55&fontColor=79502B&fontAlignY=38&desc=Growing%20like%20a%20sunflower&descAlignY=60&descSize=18" width="100%" alt="Sunflower yellow header" />
+### Python Developer in Progress | SQL | Problem Solving
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3000&pause=900&color=B8860B&center=true&vCenter=true&width=600&lines=Hello%2C+welcome+to+my+profile!;B.E.+Information+Technology+%7C+3rd+Year;Learning+Python+%26+SQL;Growing+my+skills+one+day+at+a+time" alt="Animated introduction" />
-
-🌻 ☀️ 🌻
-
-**B.E. Information Technology · 3rd Year**  
+B.E. Information Technology · 3rd Year  
 SIMATS Engineering
 
-[![GitHub](https://img.shields.io/badge/GitHub-Priyanka-79502B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka)
-[![Python](https://img.shields.io/badge/Python-Learning-FFCA28?style=for-the-badge&logo=python&logoColor=49320A)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-Learning-F9A825?style=for-the-badge&logo=mysql&logoColor=49320A)](https://www.w3schools.com/sql/)
+<a href="https://github.com/Priyanka"><img src="https://img.shields.io/badge/GitHub-Profile-333333?style=flat-square&logo=github" alt="GitHub Profile" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /></a>
 
 </div>
 
 ---
 
-## 🌻 About Me
+## About Me
 
 Hello! I'm **Priyanka B**, a third-year B.E. Information Technology student at **SIMATS Engineering**.
 
-I'm developing my programming and database skills and using GitHub to document my learning journey.
+I'm building a strong foundation in programming, database management, and software development. I use GitHub to document my progress, practise technical concepts, and develop practical projects.
 
-- 🐍 Learning and practising Python.
-- 🗄️ Developing my SQL and database knowledge.
-- 💻 Interested in building practical projects.
-- 🌱 Focused on continuous learning and improving my technical skills.
-- ☀️ Believing in steady growth, just like a sunflower reaching for sunlight.
+- Developing programming skills with Python.
+- Learning SQL and relational database fundamentals.
+- Strengthening logical thinking and problem-solving abilities.
+- Working towards building practical, well-documented projects.
+- Continuously improving my technical knowledge through hands-on practice.
 
----
+## Technical Skills
 
-## 🌼 My Technical Skills
+| Skill | Current Focus |
+|---|---|
+| Python | Programming fundamentals and problem-solving |
+| SQL | Queries and database concepts |
+| MySQL | Relational database fundamentals |
+| Git & GitHub | Version control and project documentation |
 
-<div align="center">
+## Projects
 
-| Technology | My Focus |
-|:---:|---|
-| <img src="https://img.shields.io/badge/Python-FFCA28?style=flat&logo=python&logoColor=49320A" alt="Python"/> | Programming and problem-solving |
-| <img src="https://img.shields.io/badge/SQL-F9A825?style=flat&logo=mysql&logoColor=49320A" alt="SQL"/> | Queries and database fundamentals |
+I'm developing my project portfolio and will feature completed projects here as they become available.
 
-</div>
+<!-- Add a project here after publishing its repository.
 
----
+### Project Name
+Briefly explain the problem, solution, and key features.
 
-## 🌻 My Projects
+**Technologies:** Python, SQL, MySQL
 
-I'm working towards building a practical project portfolio. I'll add my projects here as I complete and publish them.
+[View Project](https://github.com/Priyanka/your-repository-name)
 
-<!--
-Copy this template for each completed project:
-
-### 🌼 Project Name
-
-A short description of the project and the problem it solves.
-
-- **Technologies:** Add the technologies actually used.
-- **What I learned:** Describe a genuine learning outcome.
-
-[View Repository](https://github.com/Priyanka/your-repository-name)
 -->
 
----
+## Current Learning Goals
 
-## ☀️ My Learning Goals
+- Strengthen Python fundamentals and object-oriented programming.
+- Practise SQL queries, joins, and database operations.
+- Build useful applications that demonstrate practical skills.
+- Improve code readability, debugging, and documentation.
+- Develop a portfolio that reflects my technical growth.
 
-- 🌱 Strengthen Python programming fundamentals.
-- 🌻 Practise SQL queries and database concepts.
-- 💡 Build projects that solve practical problems.
-- 📚 Write clear documentation for my projects.
-- 🚀 Keep improving through consistent practice.
-
----
-
-## 📊 My GitHub Statistics
+## GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanka&show_icons=true&hide_border=true&bg_color=FFF9C4&title_color=79502B&text_color=79502B&icon_color=F9A825&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanka&show_icons=true&hide_border=true&bg_color=FFFDF5&title_color=79502B&text_color=493A16&icon_color=C99A00" height="165" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka&layout=compact&hide_border=true&bg_color=FFF9C4&title_color=79502B&text_color=79502B" height="165" alt="Most-used languages" />
-
-<img src="https://streak-stats.demolab.com?user=Priyanka&hide_border=true&background=FFF9C4&ring=F9A825&fire=E89B16&currStreakLabel=79502B&sideLabels=79502B&currStreakNum=79502B&sideNums=79502B&dates=79502B" alt="GitHub contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka&layout=compact&hide_border=true&bg_color=FFFDF5&title_color=79502B&text_color=493A16" height="165" alt="Repository language statistics" />
 
 </div>
 
-<sub>Statistics are supplied by external services and depend on available GitHub activity. Language statistics show repository contents, not skill level.</sub>
+*GitHub statistics depend on publicly available repository activity and do not independently measure programming proficiency.*
 
 ---
 
-## 🌷 Let's Connect
+## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Visit_My_GitHub-79502B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka)
+<a href="https://github.com/Priyanka"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-333333?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" /></a>
 
-🌻 *Keep learning. Keep growing. Keep blooming.* 🌻
+**Learning with purpose. Building with consistency. Growing through practice.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCA28,50:FFE082,100:FFF9C4&height=120&section=footer" width="100%" alt="Yellow sunflower-themed footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F2C94C&height=5&section=footer" width="100%" alt="Yellow footer accent" />
 
 </div>
