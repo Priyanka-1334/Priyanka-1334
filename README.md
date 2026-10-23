@@ -2,13 +2,13 @@
 
 ### BE Information Technology Student | Python Developer
 
-I'm an Information Technology student interested in **Python development, software development, problem-solving, and database applications**.
+I'm an Information Technology student interested in **Python programming, software development, machine learning, and problem-solving**.
 
 * 🎓 BE Information Technology — **3rd Year**
 * 🐍 Currently focused on **Python programming**
-* 🚀 Building projects using **Python, SQL, and Git**
-* ☁️ Interested in cloud computing and emerging technologies
-* 💡 Interested in building practical and reliable software solutions
+* 🚀 Building projects using **Python, SQL, and machine learning**
+* 🤖 Interested in applying AI to practical problems
+* 💡 Passionate about building useful and reliable software solutions
 
 ---
 
@@ -33,7 +33,21 @@ I'm an Information Technology student interested in **Python development, softwa
 
 ## 🚀 Featured Projects
 
-Projects will be featured here as I develop and publish applications that demonstrate my programming and problem-solving skills.
+### 🛡️ FraudShield AI — Fraud & Phishing Message Detection
+
+An AI-powered application designed to identify potentially fraudulent and phishing messages using **machine learning and natural language processing**.
+
+The system analyzes message content and classifies suspicious messages to help users recognize potential scams.
+
+**Tech:** Python, Machine Learning, TF-IDF, Logistic Regression, FastAPI, MySQL, React
+
+**Reported Performance:**
+
+* **97.89% Accuracy**
+* **96.33% Precision**
+* **98.09% Recall**
+* Evaluated on **18,650 messages**
+* **30/30 automated tests passed**
 
 ---
 
@@ -42,7 +56,7 @@ Projects will be featured here as I develop and publish applications that demons
 * Python
 * Object-Oriented Programming
 * SQL
-* Database Management
+* Machine Learning Fundamentals
 * Git & GitHub
 * Software Development
 
