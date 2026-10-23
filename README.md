@@ -1,79 +1,64 @@
-# Priyanka B
+# Hi, I'm Priyanka B 👋
 
-**B.E. Information Technology Student | Python | SQL**
+### B.E. Information Technology Student | Python & SQL
 
-I'm a third-year Information Technology student at **SIMATS Engineering**, building my technical foundation in Python programming, SQL, and database management. I'm focused on improving my problem-solving abilities and developing practical projects through consistent hands-on learning.
+I'm a third-year Information Technology student at **SIMATS Engineering**, focused on developing my programming skills, strengthening database fundamentals, and building practical software projects.
 
-- **Education:** B.E. Information Technology
-- **Institution:** SIMATS Engineering
-- **Current Year:** 3rd Year
-- **Programming:** Python
-- **Database:** SQL
-- **Interests:** Software Development, Problem Solving, Database Applications
-
----
-
-## Technical Skills
-
-**Programming Language**
-- Python
-
-**Database**
-- SQL
-- Database Fundamentals
-
-**Tools**
-- GitHub
+* 🎓 B.E. Information Technology — 3rd Year
+* 🐍 Currently learning **Python programming**
+* 🗄️ Developing skills in **SQL and database management**
+* 💻 Interested in **software development and problem-solving**
+* 🌱 Focused on building practical projects and improving through hands-on learning
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-I'm building my project portfolio and will showcase completed projects here as I develop and publish them.
+### Programming
 
-<!-- Add completed projects using this format.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Project Name
+### Database
 
-A brief description of the problem the project solves and how it works.
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Technologies:** Python, SQL
+### Tools
 
-[View Repository](https://github.com/Priyanka/your-repository-name)
-
--->
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Current Learning Goals
+## 🚀 Projects
 
-- Strengthen Python programming fundamentals.
-- Learn object-oriented programming concepts.
-- Practise SQL queries and database operations.
-- Develop practical applications using Python.
-- Improve logical thinking, debugging, and problem-solving.
-- Learn to write clean, readable, and well-documented code.
+I'm working towards building a project portfolio that demonstrates my programming knowledge and problem-solving abilities.
+
+Projects will be featured here as they are completed and published.
 
 ---
 
-## GitHub Statistics
+## 📚 Currently Learning
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanka&show_icons=true&hide_border=true&theme=default" height="160" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka&layout=compact&hide_border=true&theme=default" height="160" alt="Repository language statistics" />
-
-</div>
-
-*Statistics depend on available repository activity and do not directly measure technical proficiency.*
+* Python programming fundamentals
+* Object-Oriented Programming (OOP)
+* SQL queries and database concepts
+* Problem-solving and logical thinking
+* Practical application development
+* GitHub and project documentation
 
 ---
 
-## Connect With Me
+## 📊 GitHub Stats
 
-- **GitHub:** [Priyanka](https://github.com/Priyanka)
+![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanka&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka&layout=compact&theme=default&hide_border=true)
 
 ---
 
-*Learning consistently. Building practical skills. Growing through experience.*
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka)
+
+---
+
+### 🌱 Learning, Building, and Growing One Project at a Time.
