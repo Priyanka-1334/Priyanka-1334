@@ -1,14 +1,14 @@
 # Hi, I'm Priyanka B 👋
 
-### B.E. Information Technology Student | Python & SQL
+### BE Information Technology Student | Python Developer
 
-I'm a third-year Information Technology student at **SIMATS Engineering**, focused on developing my programming skills, strengthening database fundamentals, and building practical software projects.
+I'm an Information Technology student interested in **Python development, software development, problem-solving, and database applications**.
 
-* 🎓 B.E. Information Technology — 3rd Year
-* 🐍 Currently learning **Python programming**
-* 🗄️ Developing skills in **SQL and database management**
-* 💻 Interested in **software development and problem-solving**
-* 🌱 Focused on building practical projects and improving through hands-on learning
+* 🎓 BE Information Technology — **3rd Year**
+* 🐍 Currently focused on **Python programming**
+* 🚀 Building projects using **Python, SQL, and Git**
+* ☁️ Interested in cloud computing and emerging technologies
+* 💡 Interested in building practical and reliable software solutions
 
 ---
 
@@ -20,38 +20,39 @@ I'm a third-year Information Technology student at **SIMATS Engineering**, focus
 
 ### Database
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-I'm working towards building a project portfolio that demonstrates my programming knowledge and problem-solving abilities.
-
-Projects will be featured here as they are completed and published.
+Projects will be featured here as I develop and publish applications that demonstrate my programming and problem-solving skills.
 
 ---
 
 ## 📚 Currently Learning
 
-* Python programming fundamentals
-* Object-Oriented Programming (OOP)
-* SQL queries and database concepts
-* Problem-solving and logical thinking
-* Practical application development
-* GitHub and project documentation
+* Python
+* Object-Oriented Programming
+* SQL
+* Database Management
+* Git & GitHub
+* Software Development
 
 ---
 
 ## 📊 GitHub Stats
 
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanka&show_icons=true&theme=default&hide_border=true)
+![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanka&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka&layout=compact&theme=default)
 
 ---
 
@@ -61,4 +62,4 @@ Projects will be featured here as they are completed and published.
 
 ---
 
-### 🌱 Learning, Building, and Growing One Project at a Time.
+### 💻 Building, Learning, and Improving One Project at a Time.
