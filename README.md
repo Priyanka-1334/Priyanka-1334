@@ -1,3 +1,4 @@
+
 # Hi, I'm Priyanka B 👋
 
 ### B.Tech Information Technology Student | Python Developer
@@ -33,21 +34,58 @@ I'm an Information Technology student interested in **Python programming, softwa
 
 ## 🚀 Featured Projects
 
-### 🛡️ FraudShield AI — Fraud & Phishing Message Detection
+### 🛡️ FraudShield AI — AI-Powered Fraud Message Detection System
 
-An AI-powered application designed to identify potentially fraudulent and phishing messages using **machine learning and natural language processing**.
+An AI-powered application designed to detect phishing messages and online scams using **machine learning and natural language processing**.
 
-The system analyzes message content and classifies suspicious messages to help users recognize potential scams.
+The system analyzes message content, identifies potentially fraudulent messages, performs URL analysis, and assigns risk scores to help users recognize potential scams.
 
-**Tech:** Python, Machine Learning, TF-IDF, Logistic Regression, FastAPI, MySQL, React
+**Key Features:**
+* Message classification to identify potentially fraudulent messages.
+* URL analysis to detect suspicious links.
+* Risk scoring to evaluate potential threats.
 
-**Reported Performance:**
+**Performance:**
+* **95.8% Accuracy**
+* **97.0% Precision**
+* **94.8% Recall**
 
-* **97.89% Accuracy**
-* **96.33% Precision**
-* **98.09% Recall**
-* Evaluated on **18,650 messages**
-* **30/30 automated tests passed**
+**Tech:** Python, Machine Learning, React.js, Node.js
+
+---
+
+### ⏱️ TimeTrace — Productivity and Task Management Web Application
+
+A productivity web application designed to help users manage tasks, prioritize activities, and monitor their productivity.
+
+**Key Features:**
+* Task prioritization and deadline tracking.
+* Focus timer for productivity management.
+* Interactive dashboards for productivity analysis.
+* Targeted a 25% improvement in task completion efficiency.
+
+**Tech:** Python, React.js, Node.js, SQL
+
+---
+
+### Hand Gesture Recognition Using Machine Learning
+
+A machine learning project that recognizes hand gestures using image processing and classification algorithms.
+
+**Key Features:**
+* Hand gesture recognition using image data.
+* Image processing using OpenCV.
+* Classification using Random Forest and K-Nearest Neighbors (KNN).
+* Machine learning techniques for gesture recognition.
+
+**Tech:** Python, OpenCV, Random Forest, KNN
+
+---
+
+## 📜 Certifications
+
+* Consultant Job Simulation — Accenture
+* MS Office Certificate — Udemy
 
 ---
 
@@ -64,9 +102,10 @@ The system analyzes message content and classifies suspicious messages to help u
 
 ## 📊 GitHub Stats
 
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanka-1334&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka-1334&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Priyanka-1334&show_icons=true&theme=default" height="180" alt="Priyanka's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Priyanka-1334&layout=compact&theme=default" height="180" alt="Top Languages" />
+</p>
 
 ---
 
