@@ -1,10 +1,10 @@
 # Hi, I'm Priyanka B 👋
 
-### BE Information Technology Student | Python Developer
+### B.Tech Information Technology Student | Python Developer
 
 I'm an Information Technology student interested in **Python programming, software development, machine learning, and problem-solving**.
 
-* 🎓 BE Information Technology — **3rd Year**
+* 🎓 B.Tech Information Technology — **3rd Year**
 * 🐍 Currently focused on **Python programming**
 * 🚀 Building projects using **Python, SQL, and machine learning**
 * 🤖 Interested in applying AI to practical problems
